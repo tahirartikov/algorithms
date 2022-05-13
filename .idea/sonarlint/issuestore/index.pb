@@ -1,11 +1,19 @@
 
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
->
-Algorithms.iml,3\1\312e60ce18ebd4217b2cf3027008df0651d31e3f
 I
 src/com/company/Main.java,4\a\4a831b10439099d44774d0ccc387e808deffaeab
 ^
 .src/com/company/stage2recursion/deepCount.java,e\6\e6dc3da4bd04803c87ffaabac2e93dd9322ff115
 `
 0src/com/company/stage2recursion/SumOfDigits.java,4\4\44bc922b18ba59068ccd020ef9f853f6910a2a99
+^
+.src/com/company/stage2recursion/DeepCount.java,4\d\4de4fae7b3dba06df1598b46ba6c4ee5bc459f64
+>
+Algorithms.iml,3\1\312e60ce18ebd4217b2cf3027008df0651d31e3f
+X
+(src/com/company/stage3/LeftRotation.java,2\4\249df1fe38ce0eb28c061dccaee4d3479ba72bfc
+\
+,src/com/company/stage3/RemoveDuplicates.java,6\0\60b1d0b26fb7d3577c842177977d67d00c6e61a4
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+V
+&src/com/company/stage3/Palindrome.java,7\9\7950911463f2d36c26f0141f99d4d1dd23f5617f
