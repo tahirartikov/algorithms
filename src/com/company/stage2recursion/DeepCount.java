@@ -4,7 +4,7 @@ import java.lang.reflect.Array;
 import java.util.Objects;
 import java.util.Scanner;
 
-public class deepCount {
+public class DeepCount {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

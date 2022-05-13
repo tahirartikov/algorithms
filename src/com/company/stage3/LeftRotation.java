@@ -4,7 +4,7 @@ import java.util.List;
 
 
 
-public class leftRotation{
+public class LeftRotation {
 
     public List<Integer> rotate(List<Integer> a, int d) {
         List<Integer> firstPart = a.subList(0, d);

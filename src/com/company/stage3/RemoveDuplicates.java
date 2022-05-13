@@ -1,6 +1,6 @@
 package com.company.stage3;
 
-public class removeDuplicates {
+public class RemoveDuplicates {
 
     public static int removeDuplicateElements( int[] nums){
         int count = 0;
