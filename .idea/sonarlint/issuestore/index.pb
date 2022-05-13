@@ -3,8 +3,6 @@ I
 src/com/company/Main.java,4\a\4a831b10439099d44774d0ccc387e808deffaeab
 ^
 .src/com/company/stage2recursion/deepCount.java,e\6\e6dc3da4bd04803c87ffaabac2e93dd9322ff115
-`
-0src/com/company/stage2recursion/SumOfDigits.java,4\4\44bc922b18ba59068ccd020ef9f853f6910a2a99
 ^
 .src/com/company/stage2recursion/DeepCount.java,4\d\4de4fae7b3dba06df1598b46ba6c4ee5bc459f64
 >
