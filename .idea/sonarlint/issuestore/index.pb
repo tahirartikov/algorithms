@@ -1,6 +1,4 @@
 
-I
-src/com/company/Main.java,4\a\4a831b10439099d44774d0ccc387e808deffaeab
 ^
 .src/com/company/stage2recursion/deepCount.java,e\6\e6dc3da4bd04803c87ffaabac2e93dd9322ff115
 ^
@@ -15,3 +13,21 @@ X
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 V
 &src/com/company/stage3/Palindrome.java,7\9\7950911463f2d36c26f0141f99d4d1dd23f5617f
+X
+(src/com/company/basics/ArraySorting.java,5\5\555487afaa16661ff979b782922adc8b8dc63478
+Y
+)src/com/company/stage3/ReverseString.java,2\e\2e7a3de41855e7f9eef401709e435cd7aa89e9cb
+W
+'src/com/company/stage3/ArraySearch.java,a\4\a48089ef5dbf8c0309d0729d3ae2b30d80b4bdbb
+`
+0src/com/company/stage2recursion/SumOfDigits.java,4\4\44bc922b18ba59068ccd020ef9f853f6910a2a99
+W
+'src/com/company/stage3/Permutation.java,8\6\86901595e2ae2ed8dd9e05981bee3371cd8c31f0
+Q
+!src/com/company/stage3/Tower.java,3\9\39240f6bb451267407072878c816dda34602e8de
+[
++src/com/company/stage3/SumOfBigNumbers.java,f\d\fd2698569ef95966d4e271619ad864c1f4dbda76
+S
+#src/com/company/stage4/Anagram.java,1\4\14b341b96f1b370aba30c14e6f817b27380793a8
+^
+.src/com/company/stage4/RemovingDuplicates.java,f\b\fbd86e164486e86e9daa6aaa8dff046df69366d1
