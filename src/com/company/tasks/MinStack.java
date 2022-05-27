@@ -6,9 +6,10 @@ public class MinStack {
 
     Stack<Integer> stack = new Stack<>();
     Stack<Integer> minStack = new Stack<>();
+
     public MinStack() {
-        this.stack=stack;
-        this.minStack=minStack;
+        this.stack = stack;
+        this.minStack = minStack;
     }
 
     public void push(int x) {
